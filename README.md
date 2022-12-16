@@ -1,4 +1,3 @@
 # leorric.github.io
-[here](./index.md)
+[computer network](./computerNetwork.md)
 
-1234
