@@ -1,3 +1,3 @@
 # leorric.github.io
-[computer network](./computerNetwork.md)
+[computer network](https://github.com/leorric/leorric.github.io/blob/main/computerNetwork)
 
