@@ -1,7 +1,14 @@
 ---
 layout: page
-title: "PAGE-TITLE"
+title: "My-Blog"
 permalink: /home
 ---
 
-**Hello**
+奥密克戎
+- 第一天
+
+- 第二天
+
+- 第三天
+
+- 第四天
