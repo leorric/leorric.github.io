@@ -1,7 +1,7 @@
 ---
 layout: page
-permalinks: /covid/principles
 title: 从原理出发，面对新冠我们该如何自我保护
+permalinks: /covid/principles
 ---
 ### 公式
 

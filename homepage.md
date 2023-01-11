@@ -1,14 +1,7 @@
 ---
 layout: page
 title: "My-Blog"
-permalink: /home
+permalink: /index
 ---
 
-奥密克戎
-- 第一天
-
-- 第二天
-
-- 第三天
-
-- 第四天
+Welcome!
