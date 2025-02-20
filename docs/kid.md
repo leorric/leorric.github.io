@@ -1,5 +1,5 @@
 # 育娃
-![kid](../image/kid_02.jpg)
+![kid](images/kid_02.jpg)
 
 
 
