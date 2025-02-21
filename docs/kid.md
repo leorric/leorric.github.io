@@ -3,7 +3,7 @@
 
 主人公在此
 
-<img src="images/kid_02.jpg" alt="描述" width="25%" height="25%" onclick="alert('我是凯凯')>
+<img src="images/kid_02.jpg" alt="描述" width="25%" height="25%" onclick="alert('我是凯凯')" >
 
 
 
